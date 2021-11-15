@@ -1,0 +1,303 @@
+Unity Editor version:    2020.3.22f1 (e1a7f79fd887)
+Branch:                  2020.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 12.0.1 (Build 21A559)
+Darwin version:          21.1.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/rain1179/Documents/Unity Workspace/Proyecto Final COderhouse Desarrollo de videojuegos/Desrrollo-Videojuegos-Coderhouse-Kevin-Ozuna-Ramos/Kevin Ozuna Ramos
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49864
+Successfully changed project path to: /Users/rain1179/Documents/Unity Workspace/Proyecto Final COderhouse Desarrollo de videojuegos/Desrrollo-Videojuegos-Coderhouse-Kevin-Ozuna-Ramos/Kevin Ozuna Ramos
+/Users/rain1179/Documents/Unity Workspace/Proyecto Final COderhouse Desarrollo de videojuegos/Desrrollo-Videojuegos-Coderhouse-Kevin-Ozuna-Ramos/Kevin Ozuna Ramos
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 87.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.22f1 (e1a7f79fd887)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/rain1179/Documents/Unity Workspace/Proyecto Final COderhouse Desarrollo de videojuegos/Desrrollo-Videojuegos-Coderhouse-Kevin-Ozuna-Ramos/Kevin Ozuna Ramos/Assets
+GfxDevice: creating device client; threaded=0
+2021-11-15 11:59:25.091 Unity[3878:77798] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics (low power)
+2021-11-15 11:59:25.091 Unity[3878:77798] Metal devices available: 1
+2021-11-15 11:59:25.091 Unity[3878:77798] 0: Intel(R) Iris(TM) Plus Graphics (low power)
+2021-11-15 11:59:25.093 Unity[3878:77798] Using device Intel(R) Iris(TM) Plus Graphics (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics
+Initialize mono
+Mono path[0] = '/Applications/Unity/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56878
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001985 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 51.07 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.800 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2800ms)
+		BeginReloadAssembly (76ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (720ms)
+			LoadAssemblies (76ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (262ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (288ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (51ms)
+				BeforeProcessingInitializeOnLoad (36ms)
+				ProcessInitializeOnLoadAttributes (155ms)
+				ProcessInitializeOnLoadMethodAttributes (40ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.008259 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.905 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1907ms)
+		BeginReloadAssembly (234ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (31ms)
+		EndReloadAssembly (1557ms)
+			LoadAssemblies (145ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (520ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (99ms)
+			SetupLoadedEditorAssemblies (576ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (126ms)
+				ProcessInitializeOnLoadAttributes (419ms)
+				ProcessInitializeOnLoadMethodAttributes (19ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+Validating Project structure ... 0.014196 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.011428 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 0.000ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Launching external process: /Applications/Unity/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Initializing Unity extensions:
+2021-11-15 11:59:32.370 Unity[3878:77798] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600002733870 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2021-11-15 11:59:32.375 Unity[3878:77798] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x60000272dff0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+========================================================================
+Worker process is ready to serve import requests
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1639 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 202.5 MB.
+System memory in use after: 201.6 MB.
+
+Unloading 125 unused Assets to reduce memory usage. Loaded Objects now: 2109.
+Total: 4.838212 ms (FindLiveObjects: 0.210102 ms CreateObjectMapping: 0.068579 ms MarkObjects: 3.825472 ms  DeleteObjects: 0.732592 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_4_MetallicSmoothness.png
+  artifactKey: Guid(394a1314efb736142a14c7c6742da055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_4_MetallicSmoothness.png using Guid(394a1314efb736142a14c7c6742da055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15b98dcde88811ab3fd0b566ce9660b4') in 2.104153 seconds 
+  Import took 2.109001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007108 seconds.
+  path: Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_4_Normal.png
+  artifactKey: Guid(0430c4dc97765e1488feab797bc1638f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_4_Normal.png using Guid(0430c4dc97765e1488feab797bc1638f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84e8dd2160d1ac0c5226f5e0843d833c') in 0.138998 seconds 
+  Import took 0.145412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_6_Albedo.png
+  artifactKey: Guid(b34118f35043e24428e782408caea190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_6_Albedo.png using Guid(b34118f35043e24428e782408caea190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47a32850bb9e5fd72616191b91594104') in 0.024022 seconds 
+  Import took 0.029503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000563 seconds.
+  path: Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_1_MetallicSmoothness.png
+  artifactKey: Guid(6686ec7122d5b5f4caf37ac9c7e61ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_1_MetallicSmoothness.png using Guid(6686ec7122d5b5f4caf37ac9c7e61ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a80170e3822415d9c41d289c8f36c8f5') in 0.025935 seconds 
+  Import took 0.035239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000503 seconds.
+  path: Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_3_Normal.png
+  artifactKey: Guid(42b958b27042d174b8f4c7d8c9d13196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_3_Normal.png using Guid(42b958b27042d174b8f4c7d8c9d13196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f6776500c899b0eac7751d61e1ef529') in 0.033639 seconds 
+  Import took 0.043038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000512 seconds.
+  path: Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_5_Normal.png
+  artifactKey: Guid(33e3477e0f8caeb469674b945c5e4130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_5_Normal.png using Guid(33e3477e0f8caeb469674b945c5e4130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a22962d8ccfc1cb5b77976dffeaa2f19') in 0.024980 seconds 
+  Import took 0.033335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000496 seconds.
+  path: Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_1_Albedo.png
+  artifactKey: Guid(673104a7437ca954890de977e680efa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_1_Albedo.png using Guid(673104a7437ca954890de977e680efa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f74e4c1b0bb9cd931afa365e041bc655') in 0.019122 seconds 
+  Import took 0.025606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000475 seconds.
+  path: Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_3_MetallicSmoothness.png
+  artifactKey: Guid(295195a12ba51d64887b3d0b2c4f0fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_3_MetallicSmoothness.png using Guid(295195a12ba51d64887b3d0b2c4f0fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83ebc9610d52e58e0876466f76740883') in 0.024526 seconds 
+  Import took 0.032657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000512 seconds.
+  path: Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_6_MetallicSmoothness.png
+  artifactKey: Guid(3930865bec665774f84a746f6cc2f849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_6_MetallicSmoothness.png using Guid(3930865bec665774f84a746f6cc2f849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2d68da41f224c1ddbb4b1d10d4181a7') in 0.025366 seconds 
+  Import took 0.034407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000695 seconds.
+  path: Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_5_Albedo.png
+  artifactKey: Guid(c57326d92ba8f2b41a35315c67218663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_5_Albedo.png using Guid(c57326d92ba8f2b41a35315c67218663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dcb8fcea8a30af3b6601799bf0d5440') in 0.020149 seconds 
+  Import took 0.026781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_6_Normal.png
+  artifactKey: Guid(2a374926a8739034a8e1a3dd1c9e1310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_6_Normal.png using Guid(2a374926a8739034a8e1a3dd1c9e1310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9576b161f97aef0f2867185944bf7c83') in 0.025289 seconds 
+  Import took 0.033510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000709 seconds.
+  path: Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_2_Albedo.png
+  artifactKey: Guid(93fa9533a41e7354981a7b6e60a294ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_2_Albedo.png using Guid(93fa9533a41e7354981a7b6e60a294ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a65c41a4a621bb38f27df78dd212698') in 0.023970 seconds 
+  Import took 0.029595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000453 seconds.
+  path: Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_1_Normal.png
+  artifactKey: Guid(c70660fdf3939374dbf934f5f381b634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_1_Normal.png using Guid(c70660fdf3939374dbf934f5f381b634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f788fd52a130e2e95e6aeb96050c583a') in 0.028250 seconds 
+  Import took 0.036459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000557 seconds.
+  path: Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_5_MetallicSmoothness.png
+  artifactKey: Guid(5458f9b9c60613149b3c9be7e6e20558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_5_MetallicSmoothness.png using Guid(5458f9b9c60613149b3c9be7e6e20558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb976a1167eb7dc5d332766ba9544193') in 0.026547 seconds 
+  Import took 0.034145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_2_Normal.png
+  artifactKey: Guid(97c3aee595a361746b4add68884f515d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_2_Normal.png using Guid(97c3aee595a361746b4add68884f515d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea9d109c5d3a8ac0581d4f660681f7e8') in 0.034123 seconds 
+  Import took 0.044031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000597 seconds.
+  path: Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_3_Albedo.png
+  artifactKey: Guid(c33cf1910adc22141b75c70e70974076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_3_Albedo.png using Guid(c33cf1910adc22141b75c70e70974076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a77b590a1ada12c396dba594b28b4dc') in 0.026059 seconds 
+  Import took 0.034062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000579 seconds.
+  path: Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_2_MetallicSmoothness.png
+  artifactKey: Guid(360214864f1d5b04595bb56bf01850a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_2_MetallicSmoothness.png using Guid(360214864f1d5b04595bb56bf01850a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd91cacfa691c274bd1708cbbb5907d23') in 0.041087 seconds 
+  Import took 0.052530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 172.692904 seconds.
+  path: Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_4_Albedo.png
+  artifactKey: Guid(8da1f2ff2608b42ee8ac124a66925a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_4_Albedo.png using Guid(8da1f2ff2608b42ee8ac124a66925a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd89db58c0813f398b783df5e293d29ad') in 0.015145 seconds 
+  Import took 0.018476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.784330 seconds.
+  path: Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_4_Albedo.png
+  artifactKey: Guid(8da1f2ff2608b42ee8ac124a66925a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Abandoned_Asylum/Textures/Tiled/Walls/Wall_4_Albedo.png using Guid(8da1f2ff2608b42ee8ac124a66925a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07cf038556f7379352d96c9e9646f5b9') in 0.036426 seconds 
+  Import took 0.046236 seconds .
+
